@@ -1,0 +1,38 @@
+{
+  "name": "HERU.MY.ID",
+  "short_name": "HERU.MY.ID",
+  "start_url": "https://www.heru.my.id/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#014f0e",
+  "description": "Sharing Is Caring",
+  "icons": [{
+    "src": "https://2.bp.blogspot.com/-hjNRAckY6So/XNJolHhhdoI/AAAAAAAAGVs/ehsH6kpVuq4boQtbd9OQalqcx4D5_kkRACLcBGAs/s48/heru.my.id.PNG",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-hjNRAckY6So/XNJolHhhdoI/AAAAAAAAGVs/ehsH6kpVuq4boQtbd9OQalqcx4D5_kkRACLcBGAs/s72/heru.my.id.PNG",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-hjNRAckY6So/XNJolHhhdoI/AAAAAAAAGVs/ehsH6kpVuq4boQtbd9OQalqcx4D5_kkRACLcBGAs/s96/heru.my.id.PNGs",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-hjNRAckY6So/XNJolHhhdoI/AAAAAAAAGVs/ehsH6kpVuq4boQtbd9OQalqcx4D5_kkRACLcBGAs/s144/heru.my.id.PNG",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-hjNRAckY6So/XNJolHhhdoI/AAAAAAAAGVs/ehsH6kpVuq4boQtbd9OQalqcx4D5_kkRACLcBGAs/s168/heru.my.id.PNG",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-hjNRAckY6So/XNJolHhhdoI/AAAAAAAAGVs/ehsH6kpVuq4boQtbd9OQalqcx4D5_kkRACLcBGAs/s192/heru.my.id.PNG",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://2.bp.blogspot.com/-hjNRAckY6So/XNJolHhhdoI/AAAAAAAAGVs/ehsH6kpVuq4boQtbd9OQalqcx4D5_kkRACLcBGAs/s512/heru.my.id.PNG",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
